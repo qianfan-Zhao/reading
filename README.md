@@ -1,2 +1,1 @@
-# reading
-reading and learing
+# 一个嵌入式开发人员的软件清单
